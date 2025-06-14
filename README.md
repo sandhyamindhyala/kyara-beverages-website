@@ -21,7 +21,7 @@ kyara-beverages-website/
 
 1. **Download or Clone the Repository/ZIP**:
    ```bash
-   git clone https://github.com/yourusername/kyara-beverages-website.git
+   git clone https://github.com/sandhyamindhyala/kyara-beverages-website.git
 (Or unzip the kyara-beverages-website.zip if you downloaded it.)
 
 Open the index.html file in your web browser:
